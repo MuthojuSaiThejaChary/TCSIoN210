@@ -1,4 +1,5 @@
 # TCSIoN210
+### AUTOMATE IDENTIFICATION AND RECOGNITION OF HANDWRITTEN TEXT FROM AN  IMAGE USING CRNN
 # In Google Colab
 
 1) First Clone and Download this repository. 
